@@ -1,0 +1,13 @@
+body {
+    color: black;
+    text-align: center;
+    font-family: Glyphs;
+    background-color: red;
+    background: linear-gradient(red 0%, yellow 100%);
+}
+
+img {
+    width: 150px;
+    margin: 10px;
+    height: 150px;
+}
